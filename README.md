@@ -1,1 +1,1 @@
-## This is a sample blog API with auth
+## This is a sample post API with auth
